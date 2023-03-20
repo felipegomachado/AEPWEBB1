@@ -1,0 +1,26 @@
+[
+  {
+    "nome": "Felipe Gabriel",
+    "email": "felipegabriel@teste.com",
+    "ra": "00000-01",
+    "idade": 21
+  },
+  {
+    "nome": "João Silva",
+    "email": "joaosilva@teste.com",
+    "ra": "00000-02",
+    "idade": 19
+  },
+  {
+    "nome": "Antonio Carlos",
+    "email": "antoniocarlos@teste.com",
+    "ra": "00000-03",
+    "idade": 19
+  },
+  {
+    "nome": "Carlos Antonio",
+    "email": "carlosantonio@teste.com",
+    "ra": "00000-04",
+    "idade": 19
+  }
+]
